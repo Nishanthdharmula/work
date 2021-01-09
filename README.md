@@ -1,2 +1,2 @@
 # work
-new work repo
+new work repo for git command 
